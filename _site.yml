@@ -1,6 +1,6 @@
-name: "manuals.predictiveecology.org"
+name: "Manuals"
 navbar:
-  title: "Manuals"
+  title: "manuals"
   left:
     - text: "Home"
       href: index.html
